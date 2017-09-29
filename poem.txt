@@ -6,7 +6,10 @@ Pink
 Orange
 Blue
 Green
+Ponies
+Indigo
 yellow
+master
 Red
 Indigo
 These are the colors of the rainbow
